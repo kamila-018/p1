@@ -1,6 +1,6 @@
-## meu primeiro changelog
+Feature: login
 
-## Changed
-
-- Alterou a fonte do sistema para Verdana
-- Alterou o tamanho da fonte para 14 default
+### Added
+- Recuperacao de senha
+- Login via google
+- cadastrar nova senha 
